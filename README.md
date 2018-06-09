@@ -4,9 +4,6 @@
 2. bundle包主要分为基础包和业务包两大类。基础包通常是引用react和react-natice及其他第三方库，还包括一些自己定义的公共组件或库，业务包可以包含多个,主要是业务相关模块。
 
 #### 示例
-
-- ![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555264.png）
-
-- ![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555270.png）
-
-- ![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555276.png）
+![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555264.png）<br><br>
+![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555270.png）<br><br>
+![](https://github.com/AllenWen/RN-SplitDemo/blob/master/images/Screenshot_1528555276.png）<br><br>
