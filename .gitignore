@@ -1,0 +1,17 @@
+#React-native
+.DS_Store
+/.vscode
+/node_modules
+
+#Android
+*.iml
+/android/.DS_Store
+/android/build
+/android/.idea
+/android/.gradle
+/android/local.properties
+/android/captures
+/android/keystores
+
+/android/app/build
+/android/app/BUCK
